@@ -1,8 +1,8 @@
 ---
 layout: page
-title: documents
+title: Documents
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Project documents, including the project application, reports, and media. Datasets can be accessed via navigation bar.
 nav: true
 nav_order: 2
 display_categories: [work, fun]
