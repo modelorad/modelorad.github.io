@@ -1,16 +1,17 @@
 ---
 layout: page
-title: submenus
+title: Datasets
 nav: true
-nav_order: 8
+nav_order: 5
 dropdown: true
 children:
-  - title: publications
-    permalink: /publications/
+  - title: Dataset 1
+    permalink: /teaching/
   - title: divider
-  - title: projects
-    permalink: /projects/
+  - title: Dataset 2
+    permalink: /teaching/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: Dataset 3
+    permalink: /teaching/
+  - title: divider
 ---

@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>A project at the Hochschule Karlsruhe</a>.
-
+subtitle: <a href='https://www.h-ka.de/en/ieem/projects/modelo-rad'>A project at the Hochschule Karlsruhe</a>.
+#  <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 profile:
   align: right
   image: prof_pic.jpg
