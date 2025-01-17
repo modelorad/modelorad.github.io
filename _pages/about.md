@@ -22,7 +22,7 @@ The objective of MODELO-Rad is to develop a tool for high-resolution, route- and
 <div id="more-info" style="display: none; clear: both; width: 100%;">
   <div class="about-section">
     <div class="profile" style="float: left; margin-right: 20px;">
-      <img src="{{ site.baseurl }}/assets/img/about_pic2.jpg" alt="Profile Picture" style="border-radius: {{ page.profile.image_circular | default: false | replace: 'true', '50%' | replace: 'false', '0' }};">
+      <img src="/assets/img/about_pic2.jpg" alt="Profile Picture" style="border-radius: {{ page.profile.image_circular | default: false | replace: 'true', '50%' | replace: 'false', '0' }};">
       <div class="more-info">
         <p>our goals</p>
       </div>
