@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # the website title (if blank, full name will be used instead)
+title: Modelo-Rad # the website title (if blank, full name will be used instead)
 first_name: MODELO
-middle_name:
+middle_name: -
 last_name: Rad
 contact_note: >
   See the Hochschule Karlsruhe website for more projects.
@@ -87,9 +87,9 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
+blog_name: MODELO-Rad # blog_name will be displayed in your blog page
+blog_description: A cross-institute research project at the Hochschule Karlsruhe.
+permalink: /posts/:year/:title/
 lsi: false # produce an index for related posts
 
 # Pagination
