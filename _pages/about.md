@@ -50,6 +50,7 @@ The objective of MODELO-Rad is to develop a tool for high-resolution, route- and
   }
 </style>
 
+
 <script>
   function toggleMoreInfo() {
     var moreInfo = document.getElementById("more-info");
