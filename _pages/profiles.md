@@ -15,7 +15,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       Prof. Dr.-Ing. Reiner Kriesten
-      
+      <a href='https://www.h-ka.de/en/about-hka/organization-people/staff-search/person/reiner-kriesten'>Prof. Dr.-Ing. Reiner Kriesten</a>.
       <p>Moltkestr. 30</p>
       <p>76133, Karlsruhe</p>
       <p>Germany</p>
@@ -24,8 +24,8 @@ profiles:
     content: about_eckart.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      Prof. Dr. Jochen Eckart 
-      
+      <a href='https://www.h-ka.de/die-hochschule-karlsruhe/organisation-personen/personen-a-z/person/jochen-eckart'>Prof. Dr. Jochen Eckart</a>.
+            
       <p>Moltkestr. 30</p>
       <p>76133, Karlsruhe</p>
       <p>Germany</p>
