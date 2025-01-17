@@ -31,21 +31,21 @@ ninja.data = [{
             window.location.href = "/people/";
           },
         },{id: "dropdown-dataset-1",
-              title: "Dataset 1",
+              title: "dataset 1",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "";
               },
             },{id: "dropdown-dataset-2",
-              title: "Dataset 2",
+              title: "dataset 2",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "";
               },
             },{id: "dropdown-dataset-3",
-              title: "Dataset 3",
+              title: "dataset 3",
               description: "",
               section: "Dropdown",
               handler: () => {
