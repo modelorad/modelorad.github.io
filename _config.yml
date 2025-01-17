@@ -7,7 +7,7 @@ first_name: MODELO
 middle_name: -
 last_name: Rad
 contact_note: >
-  See the Hochschule Karlsruhe website for more projects.
+  Visit the Hochschule Karlsruhe website for more projects and contact information.
 description: # the ">" symbol means to ignore newlines until "footer_text:"
   A research project aiming to parameterize physical cycling behaviour in real-world scenarios.
 footer_text: >
@@ -42,7 +42,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
