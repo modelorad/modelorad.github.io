@@ -4,7 +4,7 @@ title: Project results
 date: 2025-01-17 01:59:00
 description: this is what included image galleries could look like
 tags: formatting images
-categories: sample-posts
+categories: [results, updates, data]
 thumbnail: assets/img/9.jpg
 images:
   lightbox2: true
