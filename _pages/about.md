@@ -21,13 +21,7 @@ The objective of MODELO-Rad is to develop a tool for high-resolution, route- and
 
 <div id="more-info" style="display: none; clear: both; width: 100%;">
   <div class="about-section">
-    <div class="profile" style="float: left; margin-right: 20px;">
-      <img src="/assets/img/about_pic2.jpg" alt="Profile Picture" style="border-radius: {{ page.profile.image_circular | default: false | replace: 'true', '50%' | replace: 'false', '0' }};">
-      <div class="more-info">
-        <p>our goals</p>
-      </div>
-    </div>
-    <div class="text">
+    <div class="text" style="width: 100%;">
       <p>The simulation tool is addressed to the municipal administration, engineering offices and all actors involved in cycling planning and cycling promotion. In order to develop a tool that is most practical and usable in a variety of ways, requirements are collected from the participating practice partners, which are taken into account in the development of the simulation tool as well as the associated model. In this way, cycling planning and cycling promotion can be supported in the following tasks:
       - Decision support for bike route/infrastructure alignment alternatives being planned (identification of alternative to minimize travel time, power requirements, etc.);
       - Identification of optimization needs for existing and planned bicycle routes/infrastructure in terms of time loss, performance, and safety
@@ -37,10 +31,24 @@ The objective of MODELO-Rad is to develop a tool for high-resolution, route- and
       
       By using the simulation, the perspective of cyclists can represent a quality grade in planning and evaluating cycling infrastructure. For this purpose, the tool can be used flexibly for already existing or future infrastructure and can be useful for the consideration of single infrastructure elements up to municipal and supraregional cycling networks. Furthermore, a standardization of the planning processes based on the uniform impact variables of cycling provided by the tool becomes possible.</p>
     </div>
+    <div class="profile" style="width: 100%; margin-top: 20px;">
+      <img src="/assets/img/about_pic3.jpg" alt="Profile Picture" style="width: 100%; height: auto;">
+    </div>
   </div>
 </div>
 
 <style>
+  .about-section {
+    width: 100%;
+  }
+  .text {
+    width: 100%;
+  }
+  .profile img {
+    width: 100%;
+    height: auto;
+  }
+</style>
   .about-section {
     display: flex;
     align-items: center;
