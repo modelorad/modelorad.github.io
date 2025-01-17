@@ -36,3 +36,16 @@ The objective of MODELO-Rad is to develop a tool for high-resolution, route- and
     By using the simulation, the perspective of cyclists can represent a quality grade in planning and evaluating cycling infrastructure. For this purpose, the tool can be used flexibly for already existing or future infrastructure and can be useful for the consideration of single infrastructure elements up to municipal and supraregional cycling networks. Furthermore, a standardization of the planning processes based on the uniform impact variables of cycling provided by the tool becomes possible.</p>
   </div>
 </div>
+
+<style>
+  .about-section {
+    display: flex;
+    align-items: center;
+  }
+  .profile {
+    flex: 0 0 auto;
+  }
+  .text {
+    flex: 1 1 auto;
+  }
+</style>
