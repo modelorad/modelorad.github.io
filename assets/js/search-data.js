@@ -17,7 +17,7 @@ ninja.data = [{
             window.location.href = "/blog/";
           },
         },{id: "nav-documents",
-          title: "Documents",
+          title: "documents",
           description: "Project documents, including the project application, reports, and media. Datasets can be accessed via navigation bar.",
           section: "Navigation",
           handler: () => {
