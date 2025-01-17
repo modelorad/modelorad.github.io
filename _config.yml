@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Modelo-Rad # the website title (if blank, full name will be used instead)
-first_name: MODELO
-middle_name: -
+title: ModeloRad # the website title (if blank, full name will be used instead)
+first_name: Modelo
+middle_name: 
 last_name: Rad
 contact_note: >
   Visit the Hochschule Karlsruhe website for more projects and contact information.
-description: # the ">" symbol means to ignore newlines until "footer_text:"
+description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A research project aiming to parameterize physical cycling behaviour in real-world scenarios.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
