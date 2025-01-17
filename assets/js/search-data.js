@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-people",
           title: "people",
-          description: "members of the lab or group",
+          description: "Members of the lab",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
@@ -465,13 +465,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
         },
       },{
         id: 'social-rss',
