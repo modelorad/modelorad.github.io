@@ -14,7 +14,6 @@ profiles:
     content: about_kriesten.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      Prof. Dr.-Ing. Reiner Kriesten
       <a href='https://www.h-ka.de/en/about-hka/organization-people/staff-search/person/reiner-kriesten'>Prof. Dr.-Ing. Reiner Kriesten</a>.
       <p>Moltkestr. 30</p>
       <p>76133, Karlsruhe</p>

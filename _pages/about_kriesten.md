@@ -1,4 +1,3 @@
-Prof. Dr.-Ing. Reiner Kriesten
 
 Institute Spokesperson
 
