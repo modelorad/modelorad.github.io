@@ -13,7 +13,8 @@ profiles:
     image: kriesten_pic.jpg
     content: about_kriesten.md
     image_circular: false # crops the image to make it circular
-    more_info: Prof. Dr.-Ing. Reiner Kriesten>
+    more_info: >
+      Prof. Dr.-Ing. Reiner Kriesten
       <p>Moltkestr. 30</p>
       <p>76133, Karlsruhe</p>
       <p>Germany</p>
@@ -21,7 +22,8 @@ profiles:
     image: eckart_pic.jpg
     content: about_eckart.md
     image_circular: false # crops the image to make it circular
-    more_info: Prof. Dr. Jochen Eckart >
+    more_info: >
+      Prof. Dr. Jochen Eckart 
       <p>Moltkestr. 30</p>
       <p>76133, Karlsruhe</p>
       <p>Germany</p>
