@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Final Report
+title: project application
 description: with background image
 img: assets/img/12.jpg
 importance: 1
