@@ -16,7 +16,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: ModeloRad, Model, Cycling # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🚲 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: <i class="fa-light fa-bicycle fa-sm" style="color: #d72305;"> #</i>🚲 #the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://devin409.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
