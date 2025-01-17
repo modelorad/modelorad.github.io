@@ -15,6 +15,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       Prof. Dr.-Ing. Reiner Kriesten
+      
       <p>Moltkestr. 30</p>
       <p>76133, Karlsruhe</p>
       <p>Germany</p>
@@ -24,6 +25,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       Prof. Dr. Jochen Eckart 
+      
       <p>Moltkestr. 30</p>
       <p>76133, Karlsruhe</p>
       <p>Germany</p>
