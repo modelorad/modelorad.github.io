@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Documents
-permalink: /projects/
+permalink: /documents/
 description: Project documents, including the project application, reports, and media. Datasets can be accessed via navigation bar.
 nav: true
 nav_order: 2
