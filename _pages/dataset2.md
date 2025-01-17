@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
+permalink: /dataset2/
+title: Dataset 2
 description: Materials for courses you taught. Replace this text with your description.
 nav: false
 nav_order: 
