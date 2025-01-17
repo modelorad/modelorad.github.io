@@ -21,7 +21,7 @@ ninja.data = [{
           description: "Project documents, including the project application, reports, and media. Datasets can be accessed via navigation bar.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/documents/";
           },
         },{id: "nav-publications",
           title: "publications",
