@@ -49,17 +49,6 @@ The objective of MODELO-Rad is to develop a tool for high-resolution, route- and
     height: auto;
   }
 </style>
-  .about-section {
-    display: flex;
-    align-items: center;
-  }
-  .profile {
-    flex: 0 0 auto;
-  }
-  .text {
-    flex: 1 1 auto;
-  }
-</style>
 
 <script>
   function toggleMoreInfo() {
