@@ -212,50 +212,6 @@ ninja.data = [{
           window.location.href = "/posts/2023/sidebar-table-of-contents/";
         
       },
-    },{id: "post-a-post-with-audios",
-      
-        title: "a post with audios",
-      
-      description: "this is what included audios could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/posts/2023/audios/";
-        
-      },
-    },{id: "post-a-post-with-videos",
-      
-        title: "a post with videos",
-      
-      description: "this is what included videos could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/posts/2023/videos/";
-        
-      },
-    },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
-      
-        title: "displaying beautiful tables with Bootstrap Tables",
-      
-      description: "an example of how to use Bootstrap Tables",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/posts/2023/tables/";
-        
-      },
-    },{id: "post-a-post-with-table-of-contents",
-      
-        title: "a post with table of contents",
-      
-      description: "an example of a blog post with table of contents",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/posts/2023/table-of-contents/";
-        
-      },
     },{id: "post-displaying-external-posts-on-your-al-folio-blog",
       
         title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
@@ -289,17 +245,6 @@ ninja.data = [{
           window.location.href = "/posts/2021/diagrams/";
         
       },
-    },{id: "post-a-distill-style-blog-post",
-      
-        title: "a distill-style blog post",
-      
-      description: "an example of a distill-style blog post and main elements",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/posts/2021/distill/";
-        
-      },
     },{id: "post-a-post-with-math",
       
         title: "a post with math",
@@ -309,28 +254,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/posts/2015/math/";
-        
-      },
-    },{id: "post-a-post-with-code",
-      
-        title: "a post with code",
-      
-      description: "an example of a blog post with some code",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/posts/2015/code/";
-        
-      },
-    },{id: "post-a-post-with-images",
-      
-        title: "a post with images",
-      
-      description: "this is what included images could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/posts/2015/images/";
         
       },
     },{id: "post-a-post-with-formatting-and-links",
