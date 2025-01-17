@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Project results
-date: 2025-01-17 01:59:00
+title: project gallery
+date: 2025-01-17 00:00:01
 description: this is what included image galleries could look like
-tags: formatting images
-categories: [results, updates, data]
+tags: 
+categories: [tests]
 thumbnail: assets/img/9.jpg
 images:
   lightbox2: true
@@ -12,7 +12,7 @@ images:
   spotlight: true
   venobox: true
 ---
-
+Photo gallery type post
 The images in this post are all zoomable, arranged into different mini-galleries using different libraries.
 
 ## [Lightbox2](https://lokeshdhakar.com/projects/lightbox2/)
