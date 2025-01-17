@@ -18,6 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 The objective of MODELO-Rad is to develop a tool for high-resolution, route- and cyclist-type-dependent simulation of cycling. The simulation tool models the biomechanical processes of cycling from the cyclists’ point of view in terms of: Performance, speed, travel time, interaction with other road users, comfort, etc. It enables an assessment of the quality of travel processes for existing and future cycling infrastructure from the perspective of cyclists. The tool allows to virtually assess the impact of cycling infrastructure before real implementation and therfore to perform integrated and strategic planning. The project thus addresses the goal of the NRVP 3.0 to improve traffic conditions for cycling in Germany.
 
+<!-- 
 <div class="about-section">
   <div class="profile" style="float: left; margin-right: 20px;">
     <img src="{{ site.baseurl }}/assets/img/About_pic2.jpg" alt="Profile Picture" style="border-radius: {{ page.profile.image_circular | default: false | replace: 'true', '50%' | replace: 'false', '0' }};">
@@ -48,4 +49,4 @@ The objective of MODELO-Rad is to develop a tool for high-resolution, route- and
   .text {
     flex: 1 1 auto;
   }
-</style>
+</style> -->
