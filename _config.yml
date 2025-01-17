@@ -6,7 +6,7 @@ title: ModeloRad # the website title (if blank, full name will be used instead)
 first_name: MODELO
 middle_name:
 last_name: Rad
-contact_note:
+contact_note: >
   See the Hochschule Karlsruhe website for more projects.
 description: # the ">" symbol means to ignore newlines until "footer_text:"
   A research project aiming to parameterize physical cycling behaviour in real-world scenarios.
