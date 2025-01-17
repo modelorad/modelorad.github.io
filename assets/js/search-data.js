@@ -9,9 +9,16 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-documents",
-          title: "documents",
-          description: "A growing collection of your cool projects.",
+  },{id: "nav-posts",
+          title: "posts",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
+        },{id: "nav-documents",
+          title: "Documents",
+          description: "Project documents, including the project application, reports, and media. Datasets can be accessed via navigation bar.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -51,14 +58,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
-        },{id: "post-project-results",
+            },{id: "post-project-results",
       
         title: "Project results",
       
@@ -421,8 +421,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-document-1",
-          title: 'document 1',
+          section: "News",},{id: "projects-final-report",
+          title: 'Final Report',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
