@@ -33,6 +33,7 @@ The objective of MODELO-Rad is to develop a tool for high-resolution, route- and
     </div>
     <div class="profile" style="width: 100%; margin-top: 20px;">
       <img src="/assets/img/about_pic3.jpg" alt="Profile Picture" style="width: 100%; height: auto;">
+     
     </div>
   </div>
 </div>
