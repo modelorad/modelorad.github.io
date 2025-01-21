@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: MODELO-Rad
-middle_name:
+middle_name: test
 last_name:  # note: must remove the space in layout to keep hyphen and bold formatting on first_name
 contact_note: >
   Visit the Hochschule Karlsruhe website for more projects and contact information.
