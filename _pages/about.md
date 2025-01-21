@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: A cross-institute research project at the <a href='https://www.h-ka.de/en/ieem/projects/modelo-rad'>Hochschule Karlsruhe.</a>.
+subtitle: A cross-institute research project at the <a href='https://www.h-ka.de/en/ieem/projects/modelo-rad'>Hochschule Karlsruhe.</a>
 
 profile:
   align: right
