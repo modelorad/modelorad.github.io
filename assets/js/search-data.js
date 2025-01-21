@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-documents",
           title: "documents",
-          description: "Project documents, including the project application, reports, and media. Datasets can be accessed via navigation bar.",
+          description: "Project documents, including the project application, reports, and publications. Datasets can be accessed via navigation bar.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/documents/";
@@ -283,8 +283,8 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-media",
-          title: 'media',
+            },},{id: "projects-media-publications",
+          title: 'media/publications',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
