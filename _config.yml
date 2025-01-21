@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: MODELO
+first_name: MODELO-Rad
 middle_name:
-last_name: -Rad
+last_name:  # note: must remove the space in layout to keep hyphen and bold formatting on first_name
 contact_note: >
   Visit the Hochschule Karlsruhe website for more projects and contact information.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
