@@ -4,7 +4,7 @@ title: documents
 permalink: /documents/
 description: Project documents, including the project application, reports, and publications. Datasets can be accessed via navigation bar.
 nav: true
-nav_order: 2
+nav_order: 4
 display_categories: [work, fun]
 horizontal: false
 ---
