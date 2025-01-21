@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: <strong>MODELO</strong>-Rad # the website title (if blank, full name will be used instead)
-first_name: Modelo
+first_name: MODELO-Rad
 middle_name:
-last_name: Rad
+last_name:
 contact_note: >
   Visit the Hochschule Karlsruhe website for more projects and contact information.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
