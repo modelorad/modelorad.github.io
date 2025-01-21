@@ -2,8 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: <strong>MODELO</strong>-Rad # the website title (if blank, full name will be used instead)
-first_name: MODELO-Rad
+title: MODELO-Rad # the website title (if blank, full name will be used instead)
+first_name: <strong>MODELO</strong>-Rad
 middle_name:
 last_name:
 contact_note: >
