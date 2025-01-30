@@ -9,7 +9,7 @@ profile:
   image: About_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    Adapting pathways from a cyclist's perspective
+    Adapting cycling facilities to a cyclist's perspective
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
