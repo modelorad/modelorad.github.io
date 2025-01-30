@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-documents",
           title: "documents",
-          description: "Project documents, including the project application, reports, and publications. Datasets can be accessed via navigation bar.",
+          description: "Project documents, including the project application, reports, and publications. Datasets and media can be accessed via navigation bar.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/documents/";
@@ -249,9 +249,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-application",
-          title: 'project application',
-          description: "with background image",
+          section: "News",},{id: "projects-real-corp-2024",
+          title: 'Real Corp 2024',
+          description: "Proceedings (p. 733-746). English.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-media-publications",
