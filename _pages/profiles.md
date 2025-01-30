@@ -40,7 +40,7 @@ profiles:
     content: about_bejarano.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <a href='https://www.h-ka.de/die-hochschule-karlsruhe/organisation-personen/personen-a-z/person/martin-bejarano'>Prof. Dr. Jochen Eckart </a>
+      <a href='https://www.h-ka.de/die-hochschule-karlsruhe/organisation-personen/personen-a-z/person/martin-bejarano'>Martin Bejarano M.Sc.</a>
 
   - align: right
     image: eckart_pic.jpg
