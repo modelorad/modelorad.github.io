@@ -73,6 +73,17 @@ ninja.data = [{
           window.location.href = "/posts/2025/gallery/";
         
       },
+    },{id: "post-12th-international-cycling-safety-conference",
+      
+        title: "12th International Cycling Safety Conference",
+      
+      description: "We presented some results at the International Cycling Safety Conference in Imabari, Japan, from Nov. 05-07, 2024.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/assets/pdf/HKA_Poster_A0-Intl%20Cycling%20Conference,%20Imabari.pdf";
+        
+      },
     },{id: "post-a-post-with-tabs",
       
         title: "a post with tabs",
