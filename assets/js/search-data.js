@@ -59,6 +59,17 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
+          window.location.href = "/posts/2025/project-analysis-video/";
+        
+      },
+    },{id: "post-project-gallery",
+      
+        title: "project gallery",
+      
+      description: "this is what included image galleries could look like",
+      section: "Posts",
+      handler: () => {
+        
           window.location.href = "/posts/2025/gallery/";
         
       },
