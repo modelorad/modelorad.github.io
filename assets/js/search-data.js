@@ -51,11 +51,11 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-project-gallery",
+            },{id: "post-analysis-video",
       
-        title: "project gallery",
+        title: "analysis video",
       
-      description: "this is what included image galleries could look like",
+      description: "Results and Analysis of Empirical Surveys",
       section: "Posts",
       handler: () => {
         
