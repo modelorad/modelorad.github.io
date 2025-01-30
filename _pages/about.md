@@ -57,7 +57,7 @@ The objective of MODELO-Rad is to develop a tool for high-resolution, route- and
     var moreInfo = document.getElementById("more-info");
     if (moreInfo.style.display === "none") {
       moreInfo.style.display = "block";
-      profileImg.style.marginBottom = "50px"; // Add extra space
+      profileImg.style.marginBottom = "60px"; // Add extra space
     } else {
       moreInfo.style.display = "none";
       profileImg.style.marginBottom = "0"; // Remove extra space
