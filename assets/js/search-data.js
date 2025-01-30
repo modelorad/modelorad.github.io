@@ -264,7 +264,17 @@ ninja.data = [{
           title: 'Real Corp 2024',
           description: "Proceedings (p. 733-746). English.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/1_RealCORP/";
+            },},{id: "projects-forschung-aktuell-2024",
+          title: 'Forschung aktuell 2024',
+          description: "Aktuelle Forschungsprojekte an der Hochschule Karlsruhe im Jahr 2024 (p. 82-85). German.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_Forsch_akt/";
+            },},{id: "projects-12th-international-cycling-safety-conference",
+          title: '12th International Cycling Safety Conference',
+          description: "Poster. English.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_ICSC/";
             },},{id: "projects-media-publications",
           title: 'media  /publications',
           description: "a project with a background image and giscus comments",
