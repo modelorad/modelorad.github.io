@@ -4,7 +4,7 @@ title: 12th International Cycling Safety Conference
 description: Poster. English.
 img: assets/img/ICSC 2024.png
 importance: 3
-category: relatedpublications
+category: related publications
 ---
 
 ## Poster Presentation
