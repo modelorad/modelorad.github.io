@@ -1,12 +1,10 @@
 ---
 layout: page
 permalink: /dataset3/
-title: Dataset 3
-description: Materials for courses you taught. Replace this text with your description.
+title: dataset 3
+description: Empirical data sampled on ___ in Karlsruhe, Germany.
 nav: false
 nav_order: 
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+Information is anonymized. Fields in German.
