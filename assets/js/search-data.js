@@ -70,7 +70,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/assets/pdf/HKA_Poster_A0-Intl%20Cycling%20Conference,%20Imabari.pdf";
+          window.location.href = "/posts/2024/ICSC-redirect/";
         
       },
     },{id: "post-introduction-to-project-part-1",
