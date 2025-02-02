@@ -112,7 +112,7 @@ The objective of MODELO-Rad is to develop a tool for high-resolution, route- and
         {% include figure.liquid loading="eager" path="assets/img/Modellvorhaben_nichtInvestiv.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/HKA logo Mittelgross.png" title="Hochschule Karlsruhe" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/HKA_Bildmarke.png" title="Hochschule Karlsruhe" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
