@@ -62,17 +62,6 @@ ninja.data = [{
           window.location.href = "/posts/2025/project-analysis-video/";
         
       },
-    },{id: "post-project-gallery",
-      
-        title: "project gallery",
-      
-      description: "this is what included image galleries could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/posts/2025/gallery/";
-        
-      },
     },{id: "post-12th-international-cycling-safety-conference",
       
         title: "12th International Cycling Safety Conference",
@@ -82,28 +71,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/assets/pdf/HKA_Poster_A0-Intl%20Cycling%20Conference,%20Imabari.pdf";
-        
-      },
-    },{id: "post-a-post-with-echarts",
-      
-        title: "a post with echarts",
-      
-      description: "this is what included echarts code could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/posts/2024/echarts/";
-        
-      },
-    },{id: "post-a-post-with-chart-js",
-      
-        title: "a post with chart.js",
-      
-      description: "this is what included chart.js code could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/posts/2024/chartjs/";
         
       },
     },{id: "post-introduction-to-project-part-1",
@@ -139,6 +106,39 @@ ninja.data = [{
           window.location.href = "/posts/2024/Modelo3_TechnischeRealisierung-(DE)/";
         
       },
+    },{id: "post-a-post-with-echarts",
+      
+        title: "a post with echarts",
+      
+      description: "this is what included echarts code could look like",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/posts/2023/echarts/";
+        
+      },
+    },{id: "post-a-post-with-chart-js",
+      
+        title: "a post with chart.js",
+      
+      description: "this is what included chart.js code could look like",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/posts/2023/chartjs/";
+        
+      },
+    },{id: "post-project-gallery",
+      
+        title: "project gallery",
+      
+      description: "this is what included image galleries could look like",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/posts/2023/gallery/";
+        
+      },
     },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
@@ -165,6 +165,11 @@ ninja.data = [{
           description: "Proceedings (p. 733-746). English.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_RealCORP/";
+            },},{id: "projects-media-publications",
+          title: 'media  /publications',
+          description: "a project with a background image and giscus comments",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_mediapublications/";
             },},{id: "projects-forschung-aktuell-2024",
           title: 'Forschung aktuell 2024',
           description: "Aktuelle Forschungsprojekte an der Hochschule Karlsruhe im Jahr 2024 (p. 82-85). German.",
@@ -175,11 +180,6 @@ ninja.data = [{
           description: "Poster. English.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_ICSC/";
-            },},{id: "projects-media-publications",
-          title: 'media  /publications',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_mediapublications/";
             },},{id: "projects-final-report",
           title: 'final report',
           description: "final report with redirect to website",
