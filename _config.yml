@@ -204,6 +204,7 @@ exclude:
   - vendor
   - _pages/cv.md
   - _pages/repositories.md
+  - _news.md
 keep_files:
   - CNAME
   - .nojekyll

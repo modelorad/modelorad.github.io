@@ -5,7 +5,7 @@ date: 2025-01-17 00:00:01
 description: Results and Analysis of Empirical Surveys
 tags: 
 categories: [video]
-thumbnail: assets/img/Results and Analysis Video (EN)_Cover.png
+thumbnail: assets/img/Fahrradlenker_navi_small.jpg
 images:
   compare: true
   slider: false
