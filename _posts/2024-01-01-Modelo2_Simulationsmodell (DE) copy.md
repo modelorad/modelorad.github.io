@@ -2,9 +2,9 @@
 layout: post
 title: simulation model (part 2)
 date: 2024-01-01 00:00:02
-description: Information about and development of the simulation model (German)
-tags: 
-categories: [development, modelling]
+description: information about and development of the simulation model (German)
+tags: development, modelling, video
+categories:
 thumbnail: assets/img/Modelo2_Simulationsmodell (DE)_Cover.png
 images:
   compare: true
@@ -13,7 +13,7 @@ images:
 
 ## video
 
-The Simulation Model
+The simulation model
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

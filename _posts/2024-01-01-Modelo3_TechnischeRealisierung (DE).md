@@ -1,8 +1,8 @@
 ---
 layout: post
-title: technical development of tool (part 3)
+title: technical implementation of tool (part 3)
 date: 2024-01-01 00:00:01
-description: Technical development of the cycling simulation tool (German)
+description: technical implementation of the cycling simulation tool (German)
 tags: development, modelling, video
 categories:
 thumbnail: assets/img/Modelo3_TechnischeRealisierung (DE)_Cover.png
@@ -13,7 +13,7 @@ images:
 
 ## video
 
-The Simulation Tool
+The tool. Technical implemntation, possible use cases, and application potential.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

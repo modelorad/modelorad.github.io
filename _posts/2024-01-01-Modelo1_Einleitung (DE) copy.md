@@ -2,8 +2,8 @@
 layout: post
 title: introduction to project (part 1)
 date: 2024-01-01 00:00:03
-description: Introduction to the ModeloRad research project (German)
-tags: development, modelling
+description: introduction to the ModeloRad research project (German)
+tags: development, modelling, video
 categories: 
 thumbnail: assets/img/Modelo1_Einleitung (DE)_Cover.png
 images:
