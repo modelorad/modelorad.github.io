@@ -4,14 +4,14 @@ title: analysis video
 date: 2025-01-17 00:00:01
 description: Results and Analysis of Empirical Surveys
 tags: 
-categories: [videos]
-thumbnail: assets/img/9.jpg
+categories: [video]
+thumbnail: assets/img/Results and Analysis Video (EN)_Cover.png
 images:
   compare: true
   slider: false
 ---
 
-## Video
+## video
 
 Results and Analysis of Empirical Surveys
 

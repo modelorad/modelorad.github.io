@@ -29,23 +29,21 @@ profiles:
       <p>76133, Karlsruhe</p>
       <p>Germany</p>
   - align: right
-    image: eckart_pic.jpg
+    image: bejarano_pic.jpg
+    content: about_bejarano.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <a href='https://www.h-ka.de/die-hochschule-karlsruhe/organisation-personen/personen-a-z/person/martin-bejarano'>Martin Bejarano M.Sc.</a>
+  - align: left
+    image: rauch_pic.jpg
+    content: about_rauch.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <a href='https://www.h-ka.de/die-hochschule-karlsruhe/organisation-personen/personen-a-z/person/yannick-rauch'>Yannick Rauch M.Sc. </a>
+  - align: right
     content: about_hellstern.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <a href='https://www.h-ka.de/die-hochschule-karlsruhe/organisation-personen/personen-a-z/person/mona-gierl'>Mona Hellstern M.Sc. </a>
 
-  - align: left
-    image: eckart_pic.jpg
-    content: about_bejarano.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <a href='https://www.h-ka.de/die-hochschule-karlsruhe/organisation-personen/personen-a-z/person/martin-bejarano'>Martin Bejarano M.Sc.</a>
-
-  - align: right
-    image: eckart_pic.jpg
-    content: about_rauch.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <a href='https://www.h-ka.de/die-hochschule-karlsruhe/organisation-personen/personen-a-z/person/yannick-rauch'>Yannick Rauch M.Sc. </a>
 ---
