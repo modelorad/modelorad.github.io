@@ -49,7 +49,3 @@ custom_social: # can be any name here other than the ones already defined above
   logo: /assets/img/HKA logo Mittelgross.png # can be png, svg, jpg
   title: HKA project site
   url: https://www.h-ka.de/ieem/projekte/modelo-rad
-bmdv_social: # can be any name here other than the ones already defined above
-  logo: /assets/img/Modellvorhaben_nichtInvestiv.svg # can be png, svg, jpg
-  title: The project is funded by the German Federal Ministry of Transport and Digital Infrastructure (BMDV) from funds for the implementation of the National Cycling Plan
-  url: https://www.mobilitaetsforum.bund.de/DE/Themen/Wissenspool/Projekte/NRVP/NRVP_23-25/MODELO_Rad.html
