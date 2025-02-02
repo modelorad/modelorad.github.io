@@ -3,9 +3,9 @@ layout: post
 title: analysis video
 date: 2025-01-17 00:00:01
 description: Results and Analysis of Empirical Surveys
-tags: 
-categories: [video]
-thumbnail: assets/img/Fahrradlenker_navi_small.jpg
+tags: video, analysis
+categories:
+thumbnail: assets/img/Fahrradlenke_navi.jpg
 images:
   compare: true
   slider: false

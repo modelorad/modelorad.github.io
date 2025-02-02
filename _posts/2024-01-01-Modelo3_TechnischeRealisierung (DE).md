@@ -3,8 +3,8 @@ layout: post
 title: technical development of tool (part 3)
 date: 2024-01-01 00:00:01
 description: Technical development of the cycling simulation tool (German)
-tags: 
-categories: [development, modelling]
+tags: development, modelling, video
+categories:
 thumbnail: assets/img/Modelo3_TechnischeRealisierung (DE)_Cover.png
 images:
   compare: true
