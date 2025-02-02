@@ -91,6 +91,8 @@ The objective of MODELO-Rad is to develop a tool for high-resolution, route- and
 
 <b>
 <p></p>
+<br>
+<p></p>
 <!-- <p>The project is funded by the German Federal Ministry for Digital and Transport (BMDV) from funds for the implementation of the National Cycling Plan.</p> -->
 <div class="center">
   <a href="https://www.mobilitaetsforum.bund.de/DE/Themen/Wissenspool/Projekte/NRVP/NRVP_23-25/MODELO_Rad.html">
