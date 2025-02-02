@@ -175,11 +175,6 @@ ninja.data = [{
           description: "Aktuelle Forschungsprojekte an der Hochschule Karlsruhe im Jahr 2024 (p. 82-85). German.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_Forsch_akt/";
-            },},{id: "projects-12th-international-cycling-safety-conference",
-          title: '12th International Cycling Safety Conference',
-          description: "Poster. English.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_ICSC/";
             },},{id: "projects-final-report",
           title: 'final report',
           description: "final report with redirect to website",
