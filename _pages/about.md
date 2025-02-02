@@ -31,12 +31,13 @@ The objective of MODELO-Rad is to develop a tool for high-resolution, route- and
       - Determination of the effect of infrastucture gap closures and expansion measures in the cycling network on travel time and performance requirements as a basis for cost-benefit considerations
       
       By using the simulation, the perspective of cyclists can represent a quality grade in planning and evaluating cycling infrastructure. For this purpose, the tool can be used flexibly for already existing or future infrastructure and can be useful for the consideration of single infrastructure elements up to municipal and supraregional cycling networks. Furthermore, a standardization of the planning processes based on the uniform impact variables of cycling provided by the tool becomes possible. <br>
+      <p></p>
+      
       Our associated project partners are the City of Karlsruhe, City of Offenburg, and City of Lahr.
       </p>
     </div>
     <div class="profile" style="width: 100%; margin-top: 20px;">
       <img src="/assets/img/about_pic3.jpg" alt="Profile Picture" style="width: 100%; height: auto;">
-     
     </div>
   </div>
 </div>
@@ -66,7 +67,8 @@ The objective of MODELO-Rad is to develop a tool for high-resolution, route- and
     }
   }
 </script>
-
+<b>
+<p></p>
 <p>The project is funded by the German Federal Ministry for Digital and Transport (BMDV) from funds for the implementation of the National Cycling Plan.</p>
 <div class="Funding">
   <a href="https://www.mobilitaetsforum.bund.de/DE/Themen/Wissenspool/Projekte/NRVP/NRVP_23-25/MODELO_Rad.html">
