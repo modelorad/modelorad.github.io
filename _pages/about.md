@@ -30,8 +30,7 @@ The objective of MODELO-Rad is to develop a tool for high-resolution, route- and
       - Estimation of bicycle travel times for travel time comparisons with other transportation modes; and
       - Determination of the effect of infrastucture gap closures and expansion measures in the cycling network on travel time and performance requirements as a basis for cost-benefit considerations
       
-      By using the simulation, the perspective of cyclists can represent a quality grade in planning and evaluating cycling infrastructure. For this purpose, the tool can be used flexibly for already existing or future infrastructure and can be useful for the consideration of single infrastructure elements up to municipal and supraregional cycling networks. Furthermore, a standardization of the planning processes based on the uniform impact variables of cycling provided by the tool becomes possible.
-      
+      By using the simulation, the perspective of cyclists can represent a quality grade in planning and evaluating cycling infrastructure. For this purpose, the tool can be used flexibly for already existing or future infrastructure and can be useful for the consideration of single infrastructure elements up to municipal and supraregional cycling networks. Furthermore, a standardization of the planning processes based on the uniform impact variables of cycling provided by the tool becomes possible. <br>
       Our associated project partners are the City of Karlsruhe, City of Offenburg, and City of Lahr.
       </p>
     </div>
@@ -68,9 +67,8 @@ The objective of MODELO-Rad is to develop a tool for high-resolution, route- and
   }
 </script>
 
-## Funding
-
-<div class="Funding">
-  <img src="assets/img/BMDV-Logo.jpg" alt="BMDV logo" style="width: 80%; height: auto;">
-</div>
 <p>The project is funded by the German Federal Ministry for Digital and Transport (BMDV) from funds for the implementation of the National Cycling Plan.</p>
+<div class="Funding">
+  <img src="assets/img/BMDV-Logo.jpg" alt="BMDV logo" style="width: 10%; height: auto;">
+  <img src="Modellvorhaben_nichtInvestiv.svg" alt="BMDV logo" style="width: 10%; height: auto;">
+</div>
