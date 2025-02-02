@@ -155,8 +155,8 @@ ninja.data = [{
           description: "German",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project_appl/";
-            },},{id: "projects-project-end-report",
-          title: 'project end report',
+            },},{id: "projects-final-report",
+          title: 'final report',
           description: "German",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project_finalreport/";
