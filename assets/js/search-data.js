@@ -84,72 +84,6 @@ ninja.data = [{
           window.location.href = "/assets/pdf/HKA_Poster_A0-Intl%20Cycling%20Conference,%20Imabari.pdf";
         
       },
-    },{id: "post-a-post-with-tabs",
-      
-        title: "a post with tabs",
-      
-      description: "this is what included tabs in a post could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/posts/2024/tabs/";
-        
-      },
-    },{id: "post-a-post-with-typograms",
-      
-        title: "a post with typograms",
-      
-      description: "this is what included typograms code could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/posts/2024/typograms/";
-        
-      },
-    },{id: "post-a-post-that-can-be-cited",
-      
-        title: "a post that can be cited",
-      
-      description: "this is what a post that can be cited looks like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/posts/2024/post-citation/";
-        
-      },
-    },{id: "post-a-post-with-pseudo-code",
-      
-        title: "a post with pseudo code",
-      
-      description: "this is what included pseudo code could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/posts/2024/pseudocode/";
-        
-      },
-    },{id: "post-a-post-with-code-diff",
-      
-        title: "a post with code diff",
-      
-      description: "this is how you can display code diffs",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/posts/2024/code-diff/";
-        
-      },
-    },{id: "post-a-post-with-geojson",
-      
-        title: "a post with geojson",
-      
-      description: "this is what included geojson code could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/posts/2024/geojson-map/";
-        
-      },
     },{id: "post-a-post-with-echarts",
       
         title: "a post with echarts",
@@ -172,92 +106,37 @@ ninja.data = [{
           window.location.href = "/posts/2024/chartjs/";
         
       },
-    },{id: "post-a-post-with-bibliography",
+    },{id: "post-introduction-to-project-part-1",
       
-        title: "a post with bibliography",
+        title: "introduction to project (part 1)",
       
-      description: "an example of a blog post with bibliography",
+      description: "Introduction to the ModeloRad research project (German)",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/posts/2023/post-bibliography/";
+          window.location.href = "/posts/2024/Modelo1_Einleitung-(DE)-copy/";
         
       },
-    },{id: "post-a-post-with-jupyter-notebook",
+    },{id: "post-simulation-model-part-2",
       
-        title: "a post with jupyter notebook",
+        title: "simulation model (part 2)",
       
-      description: "an example of a blog post with jupyter notebook",
+      description: "Information about and development of the simulation model (German)",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/posts/2023/jupyter-notebook/";
+          window.location.href = "/posts/2024/Modelo2_Simulationsmodell-(DE)-copy/";
         
       },
-    },{id: "post-a-post-with-custom-blockquotes",
+    },{id: "post-technical-development-of-tool-part-3",
       
-        title: "a post with custom blockquotes",
+        title: "technical development of tool (part 3)",
       
-      description: "an example of a blog post with custom blockquotes",
+      description: "Technical development of the cycling simulation tool (German)",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/posts/2023/custom-blockquotes/";
-        
-      },
-    },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
-      
-        title: "a post with table of contents on a sidebar",
-      
-      description: "an example of a blog post with table of contents on a sidebar",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/posts/2023/sidebar-table-of-contents/";
-        
-      },
-    },{id: "post-a-post-with-redirect",
-      
-        title: "a post with redirect",
-      
-      description: "you can also redirect to assets like pdf",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/assets/pdf/example_pdf.pdf";
-        
-      },
-    },{id: "post-a-post-with-diagrams",
-      
-        title: "a post with diagrams",
-      
-      description: "an example of a blog post with diagrams",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/posts/2021/diagrams/";
-        
-      },
-    },{id: "post-a-post-with-math",
-      
-        title: "a post with math",
-      
-      description: "an example of a blog post with some math",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/posts/2015/math/";
-        
-      },
-    },{id: "post-a-post-with-formatting-and-links",
-      
-        title: "a post with formatting and links",
-      
-      description: "march &amp; april, looking forward to summer",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/posts/2015/formatting-and-links/";
+          window.location.href = "/posts/2024/Modelo3_TechnischeRealisierung-(DE)/";
         
       },
     },{id: "news-a-simple-inline-announcement",
@@ -271,26 +150,36 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-real-corp-2024",
+          section: "News",},{id: "projects-project-application",
+          title: 'project application',
+          description: "German",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project_appl/";
+            },},{id: "projects-project-end-report",
+          title: 'project end report',
+          description: "German",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project_finalreport/";
+            },},{id: "projects-real-corp-2024",
           title: 'Real Corp 2024',
           description: "Proceedings (p. 733-746). English.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_RealCORP/";
+              window.location.href = "/projects/2_RealCORP/";
             },},{id: "projects-forschung-aktuell-2024",
           title: 'Forschung aktuell 2024',
           description: "Aktuelle Forschungsprojekte an der Hochschule Karlsruhe im Jahr 2024 (p. 82-85). German.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_Forsch_akt/";
+              window.location.href = "/projects/3_Forsch_akt/";
             },},{id: "projects-12th-international-cycling-safety-conference",
           title: '12th International Cycling Safety Conference',
           description: "Poster. English.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_ICSC/";
+              window.location.href = "/projects/3_ICSC/";
             },},{id: "projects-media-publications",
           title: 'media  /publications',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
+              window.location.href = "/projects/3_mediapublications/";
             },},{id: "projects-final-report",
           title: 'final report',
           description: "final report with redirect to website",
