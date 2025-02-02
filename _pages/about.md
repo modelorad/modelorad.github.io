@@ -33,7 +33,7 @@ The objective of MODELO-Rad is to develop a tool for high-resolution, route- and
       By using the simulation, the perspective of cyclists can represent a quality grade in planning and evaluating cycling infrastructure. For this purpose, the tool can be used flexibly for already existing or future infrastructure and can be useful for the consideration of single infrastructure elements up to municipal and supraregional cycling networks. Furthermore, a standardization of the planning processes based on the uniform impact variables of cycling provided by the tool becomes possible. <br>
       <p></p>
       
-      Our associated project partners are the City of Karlsruhe, City of Offenburg, and City of Lahr.
+      Our associated project partners are the City of Karlsruhe, City of Offenburg, City of Lahr, and "Arbeitsgemeinschaft Fahrrad- und Fußgängerfreundliche Kommunen Baden-Württemberg e.V." (agfk-BW).
       </p>
     </div>
     <div class="profile" style="width: 100%; margin-top: 20px;">
@@ -91,7 +91,7 @@ The objective of MODELO-Rad is to develop a tool for high-resolution, route- and
 
 <b>
 <p></p>
-<p>The project is funded by the German Federal Ministry for Digital and Transport (BMDV) from funds for the implementation of the National Cycling Plan.</p>
+<!-- <p>The project is funded by the German Federal Ministry for Digital and Transport (BMDV) from funds for the implementation of the National Cycling Plan.</p> -->
 <div class="center">
   <a href="https://www.mobilitaetsforum.bund.de/DE/Themen/Wissenspool/Projekte/NRVP/NRVP_23-25/MODELO_Rad.html">
     <img src="assets/img/logo_balm.png" alt="BALM logo" style="width: 30%; height: auto;">
@@ -100,7 +100,9 @@ The objective of MODELO-Rad is to develop a tool for high-resolution, route- and
   <img src="Modellvorhaben_nichtInvestiv.png" alt="" style="width: 30%; height: auto;">
   </a>
 </div>
-
+<div class="caption">
+    The project is funded by the German Federal Ministry for Digital and Transport (BMDV) from funds for the implementation of the National Cycling Plan.
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
