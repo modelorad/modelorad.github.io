@@ -77,7 +77,7 @@ ninja.data = [{
       
         title: "introduction to project (part 1)",
       
-      description: "Introduction to the ModeloRad research project (German)",
+      description: "introduction to the ModeloRad research project (German)",
       section: "Posts",
       handler: () => {
         
@@ -88,18 +88,18 @@ ninja.data = [{
       
         title: "simulation model (part 2)",
       
-      description: "Information about and development of the simulation model (German)",
+      description: "information about and development of the simulation model (German)",
       section: "Posts",
       handler: () => {
         
           window.location.href = "/posts/2024/Modelo2_Simulationsmodell-(DE)-copy/";
         
       },
-    },{id: "post-technical-development-of-tool-part-3",
+    },{id: "post-technical-implementation-of-tool-part-3",
       
-        title: "technical development of tool (part 3)",
+        title: "technical implementation of tool (part 3)",
       
-      description: "Technical development of the cycling simulation tool (German)",
+      description: "technical implementation of the cycling simulation tool (German)",
       section: "Posts",
       handler: () => {
         
