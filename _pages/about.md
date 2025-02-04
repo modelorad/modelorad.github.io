@@ -108,13 +108,19 @@ The objective of MODELO-Rad is to develop a tool for high-resolution, route- and
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/logo_balm.png" title="BALM logo" class="img-fluid" %}
+        <a href="https://www.balm.bund.de/DE/Home/home_node.html">
+          {% include figure.liquid loading="eager" path="assets/img/logo_balm.png" title="BALM logo" class="img-fluid" %}
+        </a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Modellvorhaben_nichtInvestiv.png" title="" class="img-fluid" %}
+        <a href="https://www.mobilitaetsforum.bund.de/DE/Themen/Wissenspool/Projekte/NRVP/NRVP_23-25/MODELO_Rad.html">
+          {% include figure.liquid loading="eager" path="assets/img/Modellvorhaben_nichtInvestiv.png" title="" class="img-fluid" %}
+        </a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/HKA_Bildmarke.png" title="Hochschule Karlsruhe" class="img-fluid" %}
+        <a href="https://www.h-ka.de/en/ieem/projects/modelo-rad">
+          {% include figure.liquid loading="eager" path="assets/img/HKA_Bildmarke.png" title="Hochschule Karlsruhe" class="img-fluid" %}
+        </a>
     </div>
 </div>
 <div class="caption">
