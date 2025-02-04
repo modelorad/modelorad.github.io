@@ -3,7 +3,7 @@ layout: post
 title: simulation model (part 2)
 date: 2024-01-01 00:00:02
 description: information about and development of the simulation model (German)
-tags: modelling, video
+tags: video, modelling
 categories:
 thumbnail: assets/img/Modelo2_Simulationsmodell (DE)_Cover.png
 images:
