@@ -51,6 +51,13 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
+            },{id: "dropdown-dataset-4",
+              title: "dataset 4",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "";
+              },
             },{id: "post-analysis-video",
       
         title: "analysis video",
@@ -180,6 +187,11 @@ ninja.data = [{
           description: "final report with redirect to website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-forschung-aktuell-2024-copy",
+          title: 'Forschung aktuell 2024 Copy',
+          description: "Aktuelle Forschungsprojekte an der Hochschule Karlsruhe im Jahr 2024 (p. 82-85). German.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Forsch_akt-Copy/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
