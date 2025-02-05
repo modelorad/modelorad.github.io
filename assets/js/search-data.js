@@ -113,28 +113,6 @@ ninja.data = [{
           window.location.href = "/posts/2024/Modelo3_TechnischeRealisierung-(DE)/";
         
       },
-    },{id: "post-a-post-with-echarts",
-      
-        title: "a post with echarts",
-      
-      description: "this is what included echarts code could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/posts/2023/echarts/";
-        
-      },
-    },{id: "post-a-post-with-chart-js",
-      
-        title: "a post with chart.js",
-      
-      description: "this is what included chart.js code could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/posts/2023/chartjs/";
-        
-      },
     },{id: "post-project-gallery",
       
         title: "project gallery",
