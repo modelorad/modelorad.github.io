@@ -94,21 +94,21 @@ The objective of MODELO-Rad is to develop a tool for high-resolution, route- and
 <br>
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-2 mt-md-0">
         <a href="https://www.balm.bund.de/DE/Home/home_node.html">
           {% include figure.liquid loading="eager" path="assets/img/logo_balm.png" title="BALM logo" class="img-fluid" %}
         </a>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-2 mt-md-0">
         <a href="https://www.mobilitaetsforum.bund.de/DE/Themen/Wissenspool/Projekte/NRVP/NRVP_23-25/MODELO_Rad.html">
           {% include figure.liquid loading="eager" path="assets/img/Modellvorhaben_nichtInvestiv.png" title="" class="img-fluid" %}
         </a>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <!-- <div class="col-sm mt-3 mt-md-0">
         <a href="https://www.h-ka.de/en/ieem/projects/modelo-rad">
           {% include figure.liquid loading="eager" path="assets/img/HKA_Bildmarke.png" title="Hochschule Karlsruhe" class="img-fluid" %}
         </a>
-    </div>
+    </div> -->
 </div>
 <div class="caption">
     The project is funded by the German Federal Ministry for Digital and Transport (BMDV) from funds for the implementation of the National Cycling Plan.
