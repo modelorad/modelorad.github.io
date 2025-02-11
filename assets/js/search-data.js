@@ -58,11 +58,11 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-analysis-video",
+            },{id: "post-sample-ride-analyzing-an-urban-bike-ride",
       
-        title: "analysis video",
+        title: "sample ride – analyzing an urban bike ride",
       
-      description: "Results and Analysis of Empirical Surveys",
+      description: "an example of a typical bike ride in Karlsruhe and how it was analyzed",
       section: "Posts",
       handler: () => {
         
@@ -88,7 +88,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/posts/2024/Modelo1_Einleitung-(DE)-copy/";
+          window.location.href = "/posts/2024/Modelo1_Einleitung-(DE)/";
         
       },
     },{id: "post-handbook-part-2-simulation-model",
