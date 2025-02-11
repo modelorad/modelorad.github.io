@@ -80,20 +80,20 @@ ninja.data = [{
           window.location.href = "/posts/2024/ICSC-redirect/";
         
       },
-    },{id: "post-introduction-to-project-part-1",
+    },{id: "post-handbook-part-1-project-introduction",
       
-        title: "introduction to project (part 1)",
+        title: "handbook part 1: project introduction",
       
-      description: "introduction to the ModeloRad research project (German)",
+      description: "introduction to the research project (German)",
       section: "Posts",
       handler: () => {
         
           window.location.href = "/posts/2024/Modelo1_Einleitung-(DE)-copy/";
         
       },
-    },{id: "post-simulation-model-part-2",
+    },{id: "post-handbook-part-2-simulation-model",
       
-        title: "simulation model (part 2)",
+        title: "handbook part 2: simulation model",
       
       description: "information about and development of the simulation model (German)",
       section: "Posts",
@@ -102,9 +102,9 @@ ninja.data = [{
           window.location.href = "/posts/2024/Modelo2_Simulationsmodell-(DE)-copy/";
         
       },
-    },{id: "post-technical-implementation-of-tool-part-3",
+    },{id: "post-handbook-part-3-technical-implementation-of-tool",
       
-        title: "technical implementation of tool (part 3)",
+        title: "handbook part 3: technical implementation of tool",
       
       description: "technical implementation of the cycling simulation tool (German)",
       section: "Posts",
