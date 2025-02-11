@@ -1,8 +1,8 @@
 ---
 layout: post
-title: analysis video
+title: sample ride – analyzing an urban bike ride
 date: 2025-01-17 00:00:01
-description: Results and Analysis of Empirical Surveys
+description: an example of a typical bike ride in Karlsruhe and how it was analyzed
 tags: video, analysis
 categories:
 thumbnail: assets/img/Fahrradlenke_navi.jpg
