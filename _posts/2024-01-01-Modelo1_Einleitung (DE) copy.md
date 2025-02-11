@@ -1,9 +1,9 @@
 ---
 layout: post
-title: introduction to project (part 1)
+title: "handbook part 1: project introduction"
 date: 2024-01-01 00:00:03
-description: introduction to the ModeloRad research project (German)
-tags: video, introduction
+description: introduction to the research project (German)
+tags: video, introduction, handbook
 categories: 
 thumbnail: assets/img/Modelo1_Einleitung (DE)_Cover.png
 images:

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: technical implementation of tool (part 3)
+title: "handbook part 3: technical implementation of tool"
 date: 2024-01-01 00:00:01
 description: technical implementation of the cycling simulation tool (German)
-tags: video, development
+tags: video, development, handbook
 categories:
 thumbnail: assets/img/Modelo3_TechnischeRealisierung (DE)_Cover.png
 images:

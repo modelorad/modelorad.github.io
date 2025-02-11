@@ -270,7 +270,7 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["video", "analysis", "poster", "development", "modelling"] # these tags will be displayed on the front page of your blog
+display_tags: ["video", "analysis", "poster", "development", "modelling", "handbook"] # these tags will be displayed on the front page of your blog
 display_categories: # ["external-services"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: simulation model (part 2)
+title: "handbook part 2: simulation model"
 date: 2024-01-01 00:00:02
 description: information about and development of the simulation model (German)
-tags: video, modelling
+tags: video, modelling, handbook
 categories:
 thumbnail: assets/img/Modelo2_Simulationsmodell (DE)_Cover.png
 images:
