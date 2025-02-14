@@ -14,7 +14,4 @@ children:
   - title: dataset 3
     permalink: /dataset3/
   - title: divider
-  - title: dataset 4
-    permalink: /dataset4/
-  - title: divider
 ---
