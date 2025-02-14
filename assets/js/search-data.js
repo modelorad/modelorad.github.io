@@ -51,13 +51,6 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "dropdown-dataset-4",
-              title: "dataset 4",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
             },{id: "post-sample-ride-analyzing-an-urban-bike-ride",
       
         title: "sample ride – analyzing an urban bike ride",
@@ -139,37 +132,22 @@ ninja.data = [{
           title: 'project application',
           description: "German",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project_appl/";
+              window.location.href = "/projects/1_project_application/";
             },},{id: "projects-final-report",
           title: 'final report',
           description: "German",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project_finalreport/";
+              window.location.href = "/projects/1_project_final/";
             },},{id: "projects-real-corp-2024",
           title: 'Real Corp 2024',
           description: "Proceedings (p. 733-746). English.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_RealCORP/";
-            },},{id: "projects-media-publications",
-          title: 'media  /publications',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_mediapublications/";
             },},{id: "projects-forschung-aktuell-2024",
           title: 'Forschung aktuell 2024',
           description: "Aktuelle Forschungsprojekte an der Hochschule Karlsruhe im Jahr 2024 (p. 82-85). German.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_Forsch_akt/";
-            },},{id: "projects-final-report",
-          title: 'final report',
-          description: "final report with redirect to website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-forschung-aktuell-2024-copy",
-          title: 'Forschung aktuell 2024 Copy',
-          description: "Aktuelle Forschungsprojekte an der Hochschule Karlsruhe im Jahr 2024 (p. 82-85). German.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/Forsch_akt-Copy/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
