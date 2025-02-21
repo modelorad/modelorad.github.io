@@ -128,34 +128,39 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-application",
-          title: 'project application',
-          description: "German",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project_application/";
-            },},{id: "projects-final-report",
+          section: "News",},{id: "projects-final-report",
           title: 'final report',
           description: "German",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project_final/";
-            },},{id: "projects-ieem-article",
-          title: 'IEEM Article',
-          description: "",
+            },},{id: "projects-interim-report",
+          title: 'interim report',
+          description: "German",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_IEEM_article/";
+              window.location.href = "/projects/1_project_interim/";
+            },},{id: "projects-project-plan",
+          title: 'project plan',
+          description: "German",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project_plan/";
             },},{id: "projects-real-corp-2024",
           title: 'Real Corp 2024',
           description: "Proceedings (p. 733-746). English.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_RealCORP/";
+            },},{id: "projects-simul-2023-article",
+          title: 'Simul 2023 Article',
+          description: "Approach to a Holistic Modelling of Cycling Dynamics",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_Simul_article/";
             },},{id: "projects-forschung-aktuell-2024",
           title: 'Forschung aktuell 2024',
           description: "Aktuelle Forschungsprojekte an der Hochschule Karlsruhe im Jahr 2024 (p. 82-85). German.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_Forsch_akt/";
-            },},{id: "projects-sae-int-article-investigation-of-the-performance-of-electric-bicycles-in-interaction-with-cyclists-driving-behaviour-in-driving-cycles-on-a-chassis-dynamometer",
-          title: 'SAE Int. Article: Investigation of the Performance of Electric Bicycles in Interaction with...',
-          description: "Note: Not open access.",
+            },},{id: "projects-sae-int-article",
+          title: 'SAE Int. Article',
+          description: "Investigation of the Performance of Electric Bicycles in Interaction with Cyclists’ Driving Behaviour in Driving Cycles on a Chassis Dynamometer. Note: Not open access.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_SAE_article/";
             },},{
