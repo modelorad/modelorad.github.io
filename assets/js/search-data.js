@@ -122,11 +122,16 @@ ninja.data = [{
           description: "German",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project_final/";
-            },},{id: "projects-interim-report",
-          title: 'interim report',
+            },},{id: "projects-interim-report-1",
+          title: 'interim report 1',
           description: "German",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project_interim/";
+              window.location.href = "/projects/1_project_interim1/";
+            },},{id: "projects-interim-report-2",
+          title: 'interim report 2',
+          description: "German",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project_interim2/";
             },},{id: "projects-project-plan",
           title: 'project plan',
           description: "German",
