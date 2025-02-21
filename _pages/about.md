@@ -95,7 +95,7 @@ The objective of MODELO-Rad is to develop a tool for high-resolution, route- and
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <a href="https://www.balm.bund.de/DE/Home/home_node.html">
+        <a href="https://bmdv.bund.de/DE/Home/home.html">
           {% include figure.liquid loading="eager" path="assets/img/BMDV_Fz_2021_WebSVG_de.svg" title="BMDV logo" class="img-fluid" %}
         </a>
     </div>
