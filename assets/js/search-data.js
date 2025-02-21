@@ -138,6 +138,11 @@ ninja.data = [{
           description: "German",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project_final/";
+            },},{id: "projects-ieem-article",
+          title: 'IEEM Article',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_IEEM_article/";
             },},{id: "projects-real-corp-2024",
           title: 'Real Corp 2024',
           description: "Proceedings (p. 733-746). English.",
@@ -148,6 +153,11 @@ ninja.data = [{
           description: "Aktuelle Forschungsprojekte an der Hochschule Karlsruhe im Jahr 2024 (p. 82-85). German.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_Forsch_akt/";
+            },},{id: "projects-sae-int-article-investigation-of-the-performance-of-electric-bicycles-in-interaction-with-cyclists-driving-behaviour-in-driving-cycles-on-a-chassis-dynamometer",
+          title: 'SAE Int. Article: Investigation of the Performance of Electric Bicycles in Interaction with...',
+          description: "Note: Not open access.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_SAE_article/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
