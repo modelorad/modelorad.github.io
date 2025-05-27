@@ -127,11 +127,6 @@ ninja.data = [{
           description: "German",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project_interim2/";
-            },},{id: "projects-project-plan",
-          title: 'project plan',
-          description: "German",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project_plan/";
             },},{id: "projects-real-corp-2024",
           title: 'Real Corp 2024',
           description: "Proceedings (p. 733-746). English.",
