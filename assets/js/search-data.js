@@ -119,7 +119,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-dvwg",
           title: 'DVWG',
-          description: "Proceedings. English.",
+          description: "Proceedings. German.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_DVWG/";
             },},{id: "projects-real-corp-2024",
