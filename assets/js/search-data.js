@@ -119,7 +119,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-dvwg",
           title: 'DVWG',
-          description: "Proceedings. German.",
+          description: "Ein Modell der Fahrzustände einer Fahrradfahrt - die biomechanische Analyse von Alltagsradelnden. German.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_DVWG/";
             },},{id: "projects-real-corp-2024",
