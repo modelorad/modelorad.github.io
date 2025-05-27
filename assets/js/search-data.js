@@ -117,11 +117,11 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-interim-report-2",
-          title: 'interim report 2',
-          description: "German",
+          section: "News",},{id: "projects-dvwg",
+          title: 'DVWG',
+          description: "Proceedings (p. 733-746). German.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project_interim2/";
+              window.location.href = "/projects/1_DVWG/";
             },},{id: "projects-real-corp-2024",
           title: 'Real Corp 2024',
           description: "Proceedings (p. 733-746). English.",
